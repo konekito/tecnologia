@@ -1,0 +1,228 @@
+body{
+	font-family: Georgia, serif;
+	margin: 15px;
+	text-align: justify; 
+}
+
+h1{
+	font-size: 90px;
+	text-shadow: 2px 2px 5px blue;
+	text-align: center;
+}
+
+.expl{
+	text-align: center;
+	 background-color: #D5D8DC   ;
+  width:1280px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+	
+}
+
+p{
+	text-align: justify;
+}
+
+.card{
+	border: 0, important;
+	display: inline-block;
+	box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+	width: 350px; 
+}
+
+.target{
+display: inline-block;
+width: 350px; 
+}
+
+.cover{
+	height: 400px;
+	background-image: url(file:///C:/Users/User/Desktop/Educacion%20en%20Tecnologia/IMAGENES/rsz_henry-be--pg63jthycg-unsplash.jpg);
+	color: white;
+	background-size: cover;
+	background-color: rgba(0,0,0,0.5);
+	background-blend-mode: darken;
+}
+
+.intro{
+   background-color: #D5D8DC   ;
+  width: 1000px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+.U{
+   background-color: #D5D8DC   ;
+  width: 1000px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+.distrital1{
+  position: relative;
+  top: ;
+  bottom: ;
+  right:0px;
+  left :150px;
+}
+
+.aceleracion{
+
+	background-color: #D5D8DC   ;
+  width: 650px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+
+}
+
+.velocidad{
+	position: relative;
+	top: ;
+	bottom: ;
+	right:;
+	left :600px;
+	background-color: #D5D8DC   ;
+  width: 650px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+
+
+}
+
+.posicion{
+
+	background-color: #D5D8DC   ;
+  width: 650px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+
+}
+
+.MCUA{
+	background-color: #D5D8DC   ;
+  width: 1280px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 8px;
+  margin: 10px;
+
+}
+
+.ejercicio1{
+	background-color: #D5D8DC   ;
+  width: 650px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+
+}
+
+.ejercicio2{
+  position: relative;
+  top: ;
+  bottom: ;
+  right:;
+  left :600px;
+	background-color: #D5D8DC   ;
+  width: 650px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+
+}
+
+.ejercicio3{
+	background-color: #D5D8DC   ;
+  width: 650px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+
+}
+
+.velocidadmcu{
+    position: relative;
+  top: ;
+  bottom: ;
+  right:;
+  left:;
+  background-color: #D5D8DC   ;
+  width: 650px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+.velocidadmcu2{
+    position: relative;
+  top: ;
+  bottom: ;
+  right:;
+  left:600px;
+  background-color: #D5D8DC   ;
+  width: 650px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+.posicion2{
+    position: relative;
+  top: ;
+  bottom: ;
+  right:;
+  left:;
+  background-color: #D5D8DC   ;
+  width: 650px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+.aceleracioncentripeta{
+    position: relative;
+  top: ;
+  bottom: ;
+  right:;
+  left:600px;
+  background-color: #D5D8DC   ;
+  width: 650px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+}
+.referencias{
+   background-color: #D5D8DC   ;
+  width: 1000px;
+  border: 1px solid green; 
+  border-color: solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+
+
+
+
+
+
+
